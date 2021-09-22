@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch EjemploSwitchSinBreaks",
+            "request": "launch",
+            "mainClass": "EjemploSwitchSinBreaks",
+            "projectName": "Curso-Java-a-profundidad_f797bb66"
+        },
+        {
+            "type": "java",
+            "name": "Launch EjemploSwitch",
+            "request": "launch",
+            "mainClass": "EjemploSwitch",
+            "projectName": "Curso-Java-a-profundidad_f797bb66"
+        },
+        {
+            "type": "java",
+            "name": "Launch EjemploDoWhile",
+            "request": "launch",
+            "mainClass": "EjemploDoWhile",
+            "projectName": "Curso-Java-a-profundidad_f797bb66"
+        },
+        {
+            "type": "java",
+            "name": "Launch EjemploWhile",
+            "request": "launch",
+            "mainClass": "EjemploWhile",
+            "projectName": "Curso-Java-a-profundidad_f797bb66"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejemploif",
+            "request": "launch",
+            "mainClass": "Ejemploif",
+            "projectName": "Curso-Java-a-profundidad_f797bb66"
+        },
+        {
+            "type": "java",
+            "name": "Launch EjemploIf",
+            "request": "launch",
+            "mainClass": "EjemploIf",
+            "projectName": "Curso-Java-a-profundidad_f797bb66"
+        },
+        {
+            "type": "java",
+            "name": "Launch HolaMundo",
+            "request": "launch",
+            "mainClass": "HolaMundo",
+            "projectName": "Curso-Java-a-profundidad_f797bb66"
+        },
+        {
+            "type": "java",
             "name": "Launch OperadoresDeComparacion",
             "request": "launch",
             "mainClass": "OperadoresDeComparacion",
