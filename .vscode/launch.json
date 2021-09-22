@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch OperadoresDeComparacion",
+            "request": "launch",
+            "mainClass": "OperadoresDeComparacion",
+            "projectName": "CursoJava_5866b282"
+        },
+        {
+            "type": "java",
+            "name": "Launch IncrementoDecremento",
+            "request": "launch",
+            "mainClass": "IncrementoDecremento",
+            "projectName": "CursoJava_5866b282"
+        },
+        {
+            "type": "java",
+            "name": "Launch Operadores",
+            "request": "launch",
+            "mainClass": "Operadores",
+            "projectName": "CursoJava_5866b282"
+        },
+        {
+            "type": "java",
+            "name": "Launch HolaMundo",
+            "request": "launch",
+            "mainClass": "HolaMundo",
+            "projectName": "CursoJava_5866b282"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
