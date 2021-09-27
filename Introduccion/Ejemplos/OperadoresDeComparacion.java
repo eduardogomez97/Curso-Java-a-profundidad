@@ -1,4 +1,3 @@
-package Introducción;
 class OperadoresDeComparacion{
     public static void main(String[] args) {
         double sueldo1 = 1000.51558;

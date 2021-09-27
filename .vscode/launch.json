@@ -6,6 +6,111 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Ejercicio4ControlDeFlujo",
+            "request": "launch",
+            "mainClass": "Ejercicio4ControlDeFlujo",
+            "projectName": "Curso-Java-a-profundidad_f797bb66"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio3ControlDeFlujo",
+            "request": "launch",
+            "mainClass": "Ejercicio3ControlDeFlujo",
+            "projectName": "Curso-Java-a-profundidad_f797bb66"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio2ControlDeFlujo",
+            "request": "launch",
+            "mainClass": "Ejercicios.Ejercicio2ControlDeFlujo",
+            "projectName": "Curso-Java-a-profundidad_f797bb66"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio1ControlDeFlujo",
+            "request": "launch",
+            "mainClass": "Ejercicios.Ejercicio1ControlDeFlujo",
+            "projectName": "Curso-Java-a-profundidad_f797bb66"
+        },
+        {
+            "type": "java",
+            "name": "Launch EjemploForAnidadosConTags",
+            "request": "launch",
+            "mainClass": "Ejemplos.EjemploForAnidadosConTags",
+            "projectName": "Curso-Java-a-profundidad_f797bb66"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio1PrimerosPasosOfuscado",
+            "request": "launch",
+            "mainClass": "Ejercicio1PrimerosPasosOfuscado",
+            "projectName": "Curso-Java-a-profundidad_f797bb66"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperadoresDeComparacion",
+            "request": "launch",
+            "mainClass": "OperadoresDeComparacion",
+            "projectName": "Curso-Java-a-profundidad_f797bb66"
+        },
+        {
+            "type": "java",
+            "name": "Launch Operadores",
+            "request": "launch",
+            "mainClass": "Operadores",
+            "projectName": "Curso-Java-a-profundidad_f797bb66"
+        },
+        {
+            "type": "java",
+            "name": "Launch IncrementoDecremento",
+            "request": "launch",
+            "mainClass": "IncrementoDecremento",
+            "projectName": "Curso-Java-a-profundidad_f797bb66"
+        },
+        {
+            "type": "java",
+            "name": "Launch EjemploForAnidadosConTags",
+            "request": "launch",
+            "mainClass": "EjemploForAnidadosConTags",
+            "projectName": "Curso-Java-a-profundidad_f797bb66"
+        },
+        {
+            "type": "java",
+            "name": "Launch EjemploForAnidados",
+            "request": "launch",
+            "mainClass": "EjemploForAnidados",
+            "projectName": "Curso-Java-a-profundidad_f797bb66"
+        },
+        {
+            "type": "java",
+            "name": "Launch EjemploForBreak",
+            "request": "launch",
+            "mainClass": "EjemploForBreak",
+            "projectName": "Curso-Java-a-profundidad_f797bb66"
+        },
+        {
+            "type": "java",
+            "name": "Launch EjemploForContinue",
+            "request": "launch",
+            "mainClass": "EjemploForContinue",
+            "projectName": "Curso-Java-a-profundidad_f797bb66"
+        },
+        {
+            "type": "java",
+            "name": "Launch EjemploFor",
+            "request": "launch",
+            "mainClass": "EjemploFor",
+            "projectName": "Curso-Java-a-profundidad_f797bb66"
+        },
+        {
+            "type": "java",
+            "name": "Launch EjemploSwitchConStrings",
+            "request": "launch",
+            "mainClass": "EjemploSwitchConStrings",
+            "projectName": "Curso-Java-a-profundidad_f797bb66"
+        },
+        {
+            "type": "java",
             "name": "Launch EjemploSwitchSinBreaks",
             "request": "launch",
             "mainClass": "EjemploSwitchSinBreaks",

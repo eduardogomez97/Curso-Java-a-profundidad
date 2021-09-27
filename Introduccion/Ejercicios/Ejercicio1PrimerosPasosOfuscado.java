@@ -1,4 +1,3 @@
-package Introducción;
 class Ejercicio1PrimerosPasosOfuscado {
     public static void main(String[] args) {
         final int _bc= 5;

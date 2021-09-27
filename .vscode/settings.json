@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "Introduccion/Ejercicios",
+        "Introduccion/Ejemplos",
+        "Estructuras de control de flujo",
+        "Estructuras de control de flujo/Ejemplos",
+        "Estructuras de control de flujo/Ejercicios",        
+    ]
+}
