@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Persona",
+            "request": "launch",
+            "mainClass": "Persona",
+            "projectName": "Curso-Java-a-profundidad_f797bb66"
+        },
+        {
+            "type": "java",
             "name": "Launch Ejercicio4ControlDeFlujo",
             "request": "launch",
             "mainClass": "Ejercicio4ControlDeFlujo",
