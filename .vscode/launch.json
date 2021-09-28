@@ -9,6 +9,20 @@
             "name": "Launch Persona",
             "request": "launch",
             "mainClass": "Persona",
+            "projectName": "Curso-Java-a-profundidad_827f78d1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Mascotas",
+            "request": "launch",
+            "mainClass": "Mascotas",
+            "projectName": "Curso-Java-a-profundidad_827f78d1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Persona",
+            "request": "launch",
+            "mainClass": "Persona",
             "projectName": "Curso-Java-a-profundidad_f797bb66"
         },
         {
