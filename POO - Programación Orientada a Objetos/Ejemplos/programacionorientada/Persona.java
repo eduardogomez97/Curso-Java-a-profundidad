@@ -1,3 +1,4 @@
+package programacionorientada;
 class Persona{
     //Atributos
     String nombre;

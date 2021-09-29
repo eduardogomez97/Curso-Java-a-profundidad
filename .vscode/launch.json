@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch EjemploPersonas",
+            "request": "launch",
+            "mainClass": "herencia.EjemploPersonas",
+            "projectName": "Curso-Java-a-profundidad_f797bb66"
+        },
+        {
+            "type": "java",
+            "name": "Launch PruebaHerencia",
+            "request": "launch",
+            "mainClass": "PruebaHerencia",
+            "projectName": "Curso-Java-a-profundidad_f797bb66"
+        },
+        {
+            "type": "java",
             "name": "Launch PruebaHerencia",
             "request": "launch",
             "mainClass": "PruebaHerencia",
