@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MascotasMejorado",
+            "request": "launch",
+            "mainClass": "MascotasMejorado",
+            "projectName": "Curso-Java-a-profundidad_827f78d1"
+        },
+        {
+            "type": "java",
             "name": "Launch Persona",
             "request": "launch",
             "mainClass": "Persona",
