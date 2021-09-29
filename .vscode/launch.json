@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch PruebaHerencia",
+            "request": "launch",
+            "mainClass": "PruebaHerencia",
+            "projectName": "Curso-Java-a-profundidad_827f78d1"
+        },
+        {
+            "type": "java",
             "name": "Launch MascotasMejorado",
             "request": "launch",
             "mainClass": "MascotasMejorado",
