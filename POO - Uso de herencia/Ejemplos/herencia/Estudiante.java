@@ -10,7 +10,7 @@ public class Estudiante extends Persona {
 
     @Override
     void dormir() {
-        System.out.println("Soy " + nombre + ", soy estudiante y apenas duermo");
+        System.out.println("Soy " + nombre + ", soy estudiante y apenas duermo :(");
     }
 
     void aprobar(){
