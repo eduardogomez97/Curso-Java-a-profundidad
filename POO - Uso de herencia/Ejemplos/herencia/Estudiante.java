@@ -10,6 +10,7 @@ public class Estudiante extends Persona {
 
     @Override
     void dormir() {
+        super.dormir(); //Con super nos referimos a la clase padre.
         System.out.println("Soy " + nombre + ", soy estudiante y apenas duermo :(");
     }
 

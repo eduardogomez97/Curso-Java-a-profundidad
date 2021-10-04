@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch CalculaPC",
+            "request": "launch",
+            "mainClass": "TiposComputadoras.CalculaPC",
+            "projectName": "Curso-Java-a-profundidad_f797bb66"
+        },
+        {
+            "type": "java",
             "name": "Launch EjemploPersonas",
             "request": "launch",
             "mainClass": "herencia.EjemploPersonas",

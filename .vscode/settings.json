@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "POO - Uso de herencia/Ejemplos",
         "POO - Programación Orientada a Objetos/Ejercicios",
         "POO - Programación Orientada a Objetos/Ejemplos",
         "Introduccion/Ejercicios",
@@ -7,6 +8,6 @@
         "Estructuras de control de flujo/Ejercicios",
         "Estructuras de control de flujo/Ejemplos",
         "Estructuras de control de flujo",
-        "POO - Uso de herencia/Ejemplos"
+        "POO - Uso de herencia/Ejercicios"
     ]
 }
