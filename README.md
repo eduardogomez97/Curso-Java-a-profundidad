@@ -1,7 +1,7 @@
 # Curso-Java-a-profundidad
 Ejercicios y ejemplos del curso realizado en Udemy
 
-Curso aprenderás a detalle el lenguaje Java a través de ejemplos enfocados en los detalles del lenguaje. Así mismo analizarás como están hechas algunas de las clases importantes de Java, todo a través de ejemplos prácticos y material de estudio resumido.
+En este curso aprenderás a detalle el lenguaje Java a través de ejemplos enfocados en los detalles del lenguaje. Así mismo analizarás como están hechas algunas de las clases importantes de Java, todo a través de ejemplos prácticos y material de estudio resumido.
 El curso es desde la perspectiva de un instructor que se dedica a la programación en su día a día y no desde la perspectiva de un académico.
 Se crearán ejemplos prácticos en la parte final del curso como editores de texto, comandos de windows, sincronización de hilos entre otros.
 
